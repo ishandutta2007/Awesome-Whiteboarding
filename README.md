@@ -47,6 +47,7 @@ Below is the comparative overview of commercial visual whiteboarding SaaS tools,
 | 🔒 **[Conceptboard](https://conceptboard.com/)** | Secure European cloud visual whiteboard designed for remote team collaboration, board auditing, and review. | €5/user/month (Starter plan) | 100 objects per board limit, 250 MB storage limit | **~$1.6 Million** ARR |
 | 🇪🇺 **[Collaboard](https://www.collaboard.app/)** | Data-compliant European online whiteboard offering guest editing, infinite canvas, and on-premises hosting options. | €5/user/month (Basic plan) | 3 whiteboards, up to 5 participants per board | **~$1.2 Million** ARR |
 | opacity="0.8" 🖊️ **[Excalidraw+](https://plus.excalidraw.com/)** | Managed cloud collaboration platform built on top of the open-source Excalidraw hand-drawn sketch editor. | $6/user/month (annual) or $7/user/month (monthly) | 14-day free trial (Excalidraw web editor is free & local) | **~$0.9 Million** ARR (Bootstrapped) |
+| **[Novastart](https://novastart.com/)** | The Infinite Canvas Whiteboard OS: infinite canvas for apps, shared canvases, and AI agents. | Pro $10/month; Team $20/month per user | Free plan available; see official site for current limits | Team of 2–10; pre-revenue; valuation not disclosed |
 
 ---
 
